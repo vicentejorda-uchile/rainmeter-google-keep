@@ -34,7 +34,7 @@ El widget es **solo de lectura**: los cambios se hacen en Keep, y aparecen en el
 Clónalo directamente en la carpeta de skins de Rainmeter:
 
 ```
-git clone https://github.com/TU_USUARIO/rainmeter-google-keep "%USERPROFILE%\Documents\Rainmeter\Skins\KeepNota"
+git clone https://github.com/vicentejorda-uchile/rainmeter-google-keep "%USERPROFILE%\Documents\Rainmeter\Skins\KeepNota"
 ```
 
 También puedes descargar el ZIP y descomprimirlo en `Documentos\Rainmeter\Skins\KeepNota`. La estructura debe quedar así:
