@@ -2,9 +2,6 @@
 
 Muestra una nota o lista de Google Keep como widget en el escritorio de Windows, usando [Rainmeter](https://www.rainmeter.net/).
 
-![Ejemplo: lista de Keep como widget](screenshot.png)
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f24eda6-bcf1-4ad1-8ed2-141d891686a3" />
 
 
 ## Cómo funciona
